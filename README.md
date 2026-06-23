@@ -16,17 +16,15 @@ The problem is:
 
 ---
 
-Current Hypotheses
+## Current Hypotheses
 
-Potential bottlenecks include:
+We believe:
 
-- Evidence gathering
-- Context correlation
-- Hypothesis generation
-- Evidence validation
-- Justification building
+- Investigation patterns may be repeatable.
+- Evidence correlation is partly manual.
+- Trusted reasoning requires significant expert effort.
 
-Further interviews and case studies are required.
+These hypotheses are still under validation.
 
 ## Context (Confidential)
 
