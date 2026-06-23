@@ -16,6 +16,18 @@ The problem is:
 
 ---
 
+Current Hypotheses
+
+Potential bottlenecks include:
+
+- Evidence gathering
+- Context correlation
+- Hypothesis generation
+- Evidence validation
+- Justification building
+
+Further interviews and case studies are required.
+
 ## Context (Confidential)
 
 - PI System
