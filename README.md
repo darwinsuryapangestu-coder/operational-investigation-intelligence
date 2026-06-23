@@ -1,4 +1,4 @@
-# operational-intvstigation-intelligence
+# operational-investigation-intelligence
 By: Darwin Surya Pangestu
 
 Operational experts often spend days or even weeks investigating industrial events before they can provide a trusted explanation and recommendation.
