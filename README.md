@@ -1,15 +1,22 @@
 # operational-intvstigation-intelligence
 By: Darwin Surya Pangestu
 
-Operational Intelligence | Reliability | Industrial Data Systems | Decision Support Systems
-Industrial Decision Support Systems(Oil & Gas
+Operational experts often spend days or even weeks investigating industrial events before they can provide a trusted explanation and recommendation.
+The challenge is not data availability.
+The challenge is transforming historical operational data into defensible reasoning.
 
-🧠 About
-I work on operational environments where critical decisions depend on interpreting complex industrial data (DCS, PI System, SAP, APMS).
-My focus is not data collection.
-My focus is:
-transforming fragmented operational signals into defensible explanations and actionable reasoning within time-critical investigations.
-
+Problem Statement
+When stakeholders ask:
+Why is Motor A experiencing high temperature?
+Engineers typically need to:
+A. Review historical trends
+B. Analyze operational events
+C. Correlate maintenance records
+D. Generate hypotheses
+E. Validate evidence
+F. Construct reasoning
+G. Produce recommendations
+H.This process can take days or weeks.
 🏭 Domain Conntext(Confidential)
 A. Oil & Gas Operations (Upstream / Process Environment)
 B. Industrial Asset Monitoring & Reliability Systems
